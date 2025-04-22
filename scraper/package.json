@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "A simple Puppeteer scraper",
+  "main": "scrape.cjs",
+  "type": "module",
+  "scripts": {
+    "start": "node scrape.cjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.7.0"
+  }
+}
